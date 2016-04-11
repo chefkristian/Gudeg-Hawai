@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoHome</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="api_key">AIzaSyBr8K_cxm0DxJ1KWssIteIgv471qJL6KKk</string>
+    <string name="action_edit_lokasi">Edit Lokasi</string>
+    <string name="action_edit"></string>
+</resources>

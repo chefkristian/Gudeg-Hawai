@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_id": "gohome-4d0b9",
+    "project_number": "531166429829",
+    "name": "GoHome"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531166429829:android:a8f6b740b41e6cdb",
+        "client_id": "android:city.stage.com.gohome",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "city.stage.com.gohome",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531166429829-5s757vp2nk07lmnaqvleuqoo8htbmffg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "city.stage.com.gohome",
+            "certificate_hash": "376D5AD1E7EB6FEB661387500B330DE0F1F23DE6"
+          }
+        },
+        {
+          "client_id": "531166429829-8lhoi9is29lcrsl22s5p0gak02e2o9vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
